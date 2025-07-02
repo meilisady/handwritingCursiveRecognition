@@ -1,8 +1,9 @@
-scipy
 streamlit
+streamlit-cropper
 tensorflow
+numpy
 opencv-python
-pillow
-idx2numpy
+Pillow
 matplotlib
-python-doctr[torch]
+idx2numpy
+scikit-learn
