@@ -1,0 +1,8 @@
+scipy
+streamlit
+tensorflow
+opencv-python
+pillow
+idx2numpy
+matplotlib
+python-doctr[torch]
