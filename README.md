@@ -4,17 +4,17 @@ Application that recognizes **handwritten cursive characters** using the **EMNIS
 
 ---
 
-## 📦 Features
+## Features
 
-- ✅ Character segmentation for cursive handwriting
-- ✅ CNN model trained on EMNIST dataset (uppercase, lowercase, digits)
-- ✅ Preprocessing using OpenCV (thresholding, resizing)
-- ✅ Real-time prediction with Streamlit interface
-- ✅ Modular structure with separate utilities
+- Character segmentation for cursive handwriting
+- CNN model trained on EMNIST dataset (uppercase, lowercase, digits)
+- Preprocessing using OpenCV (thresholding, resizing)
+- Real-time prediction with Streamlit interface
+- Modular structure with separate utilities
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 - **Model type:** Convolutional Neural Network (CNN)
 - **Input size:** 28x28 grayscale images
@@ -23,17 +23,17 @@ Application that recognizes **handwritten cursive characters** using the **EMNIS
 
 ---
 
-## 🗂️ Folder Structure
+## Folder Structure
 ![image](https://github.com/user-attachments/assets/e5be41a2-6972-4f6c-96fd-4d1eb62bbe10)
 
 
 
-## 🗂️ Data Set 
+## Data Set 
 > ⚠️ `emnist_data/` is not included in the repo due to size. See below for dataset download.
 > https://www.kaggle.com/datasets/crawford/emnist
 ![image](https://github.com/user-attachments/assets/3dce3eee-f081-4d50-88cb-2123a37aab0c)
 
-## 🖥️ Installation & Setup
+## Installation & Setup
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/meilisady/handwritingRecognition.git
