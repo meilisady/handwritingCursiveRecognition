@@ -1,6 +1,6 @@
 # ✍️ Handwriting Recognition with EMNIST
 
-This project is a deep learning-based application that recognizes **handwritten cursive characters** using the **EMNIST ByClass** dataset. It supports preprocessing, segmentation, and classification of handwritten input via a Streamlit web app interface.
+This project is a application that recognizes **handwritten cursive characters** using the **EMNIST ByClass** dataset dan CNN. It supports preprocessing, segmentation, and classification of handwritten input via a Streamlit web app interface.
 
 ---
 
